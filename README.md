@@ -11,6 +11,13 @@
 #### Vue 버전 🍒 [Link](https://vue-project2023-hoons.vercel.app/) 
 - ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 - Vue.js는 직관적이고 가볍게 사용할 수 있는 JavaScript 프레임워크로, 양방향 데이터 바인딩과 컴포넌트 기반의 아키텍처를 특징으로 합니다. Vue CLI를 사용하면 프로젝트 생성과 관리가 용이하며, Vue Router와 Vuex 등의 공식 라이브러리들이 잘 통합되어 있습니다.
+- ## 트러블 슈팅
+- <details>
+<summary>공백</summary>
+
+### 버그(해결) :
+
+</details>
 
 
 #### Vite 버전 💎 [Link](https://vite-project-2023.netlify.app/) 
