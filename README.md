@@ -1,3 +1,9 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=MyeongHun%24%20&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+
+
+
+
 # Portfolio 사이트 만들기
 
 포트폴리오를 Vue, Vite, React, next 각각의 버전으로 만들기
@@ -104,4 +110,6 @@ Maybe one of these should be marked as a client entry with "use client":
 `Attempted import error: '@/utils/link' does not contain a default export (imported as 'link').`
 
 </details>
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Thank%20you&fontSize=90)
 
