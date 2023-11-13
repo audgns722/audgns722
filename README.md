@@ -14,7 +14,7 @@
 ## Stack
 <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Vue 버전 🍒 [Link](https://vue-project2023-hoons.vercel.app/) 
+## Vue 버전 🍒 [Link](https://github.com/audgns722/vite-project2023.git) 
 - ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 - Vue.js는 직관적이고 가볍게 사용할 수 있는 JavaScript 프레임워크로, 양방향 데이터 바인딩과 컴포넌트 기반의 아키텍처를 특징으로 합니다. Vue CLI를 사용하면 프로젝트 생성과 관리가 용이하며, Vue Router와 Vuex 등의 공식 라이브러리들이 잘 통합되어 있습니다.
   ## 트러블 슈팅
@@ -24,7 +24,7 @@
 #### 버그(해결) :
 </details>
 
-## Vite 버전 💎 [Link](https://vite-project-2023.netlify.app/) 
+## Vite 버전 💎 [Link](https://github.com/audgns722/vite-project2023.git) 
 - ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 - Vite는 Vue.js를 위한 빠른 개발 서버와 최적화된 빌드 도구로, 브라우저에서 동작하는 코드를 생성하며, ESM(ES Module) 기반의 빌드와 Vue 파일에 대한 효율적인 처리를 제공합니다. 빌드 속도와 효율성에 중점을 두어 현대적이고 가벼운 웹 개발을 지원합니다.
   ## 트러블 슈팅
