@@ -5,7 +5,7 @@
 ## Screenshots
 
 #### Vue 버전 🍒 [Link](https://vue-project2023-hoons.vercel.app/)
-<img src="blob:https://vercel.com/80007890-c0dd-4f7f-848c-ba67bef7a72c" alt="2020-08-26-2-02-58" border="0">
+<img src="https://vercel.com/80007890-c0dd-4f7f-848c-ba67bef7a72c" alt="2020-08-26-2-02-58" border="0">
 
 #### Diamond 💎
 <img src="https://i.ibb.co/0cjvjGn/2020-08-26-2-03-10.png" alt="2020-08-26-2-03-10" border="0">
