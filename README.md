@@ -16,7 +16,6 @@
 <summary>공백</summary>
 
 #### 버그(해결) :
-
 </details>
 
 #### Vite 버전 💎 [Link](https://vite-project-2023.netlify.app/) 
