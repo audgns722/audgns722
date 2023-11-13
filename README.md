@@ -1,23 +1,17 @@
 # Portfolio 사이트 만들기
 
 포트폴리오를 Vue, Vite, React, next 각각의 버전으로 만들기
+## 제작기간
+- 2week 2023.10 30 ~ 2023. 11. 13
 
-## Screenshots
+##
+<img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Flutter" src ="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/> <img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=black"/>
 
 #### Vue 버전 🍒 [Link](https://vue-project2023-hoons.vercel.app/)
-<img src="https://vercel.com/80007890-c0dd-4f7f-848c-ba67bef7a72c" alt="2020-08-26-2-02-58" border="0">
 
-#### Diamond 💎
-<img src="https://i.ibb.co/0cjvjGn/2020-08-26-2-03-10.png" alt="2020-08-26-2-03-10" border="0">
+#### Vite 버전 💎 [Link](https://vite-project-2023.netlify.app/)
 
-#### Platinum 💚
-<img src="https://i.ibb.co/4VnmL99/2020-08-26-2-10-40.png" alt="2020-08-26-2-10-40" border="0">
+#### React 버전 💚 [Link](https://hoons-react-project-aaa3b.web.app/)
 
-#### Gold 🏅
-<img src="https://i.ibb.co/88n5MR4/2020-08-26-2-03-56.png" alt="2020-08-26-2-03-56" border="0">
+#### Next 버전 🏅 [Link](https://next-project02.vercel.app/)
 
-#### Silver 💍
-<img src="https://i.ibb.co/mXhLMHJ/2020-08-26-2-03-30.png" alt="2020-08-26-2-03-30" border="0">
-
-#### Bronze 🍂
-<img src="https://i.ibb.co/4tpFkR5/2020-08-26-2-03-40.png" alt="2020-08-26-2-03-40" border="0">
