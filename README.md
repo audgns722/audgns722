@@ -1,6 +1,7 @@
 <div align="center"> 
 
 
+
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=MyeongHun%20%20&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
 
@@ -10,12 +11,12 @@
 
 # Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)audgns722@gmail.com
 ---
 
 # Portfolio 사이트 만들기
 
-  포트폴리오를 Vue, Vite, React, next 각각의 버전으로 만들기   
+  포트폴리오를 Vue, Vite, React, next 각각의 버전으로 만들기
 
 | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) [React 버전Link](https://github.com/audgns722/react-project2023.git) | ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) [Vue 버전Link](https://github.com/audgns722/vite-project2023.git) | ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) [Vite 버전Link](https://github.com/audgns722/vue-project2023.git) | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) [Next 버전Link](https://github.com/audgns722/next-project.git) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | :----------------------------------------------------------: |
