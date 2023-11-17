@@ -10,7 +10,7 @@
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ---
 # Portfolio 사이트 만들기
-포트폴리오를 Vue, Vite, React, next 각각의 버전으로 만들기
+  포트폴리오를 Vue, Vite, React, next 각각의 버전으로 만들기
   ## 제작기간
   - 2week 2023.10 30 ~ 2023. 11. 13
   ## Stack
