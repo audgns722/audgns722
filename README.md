@@ -21,14 +21,14 @@
 
 
 <div>
-    | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) [React 버전Link](https://github.com/audgns722/react-project2023.git) | ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) [Vue 버전Link](https://github.com/audgns722/vite-project2023.git) | ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) [Vite 버전Link](https://github.com/audgns722/vue-project2023.git) | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) [Next 버전Link](https://github.com/audgns722/next-project.git) |
-
-</div>
-## Portfolio 사이트 만들기
-
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) [React 버전Link](https://github.com/audgns722/react-project2023.git) | ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) [Vue 버전Link](https://github.com/audgns722/vite-project2023.git) | ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) [Vite 버전Link](https://github.com/audgns722/vue-project2023.git) | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) [Next 버전Link](https://github.com/audgns722/next-project.git) |
   ## 제작기간
 
   2week 2023.10 30 ~ 2023. 11. 13
+</div>
+## Portfolio 사이트 만들기
+
+
 
   ## Skill
 
