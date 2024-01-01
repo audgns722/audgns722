@@ -28,7 +28,6 @@
 
   <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-[![MyeongHun's GitHub stats](https://github-readme-stats.vercel.app/api?username=audgns722&&show_icons=true&theme=tokyonight)
-출처: https://eunhee-programming.tistory.com/244)(https://github.com/audgns722/github-readme-stats)
+[![MyeongHun's GitHub stats](https://github-readme-stats.vercel.app/api?username=audgns722&&show_icons=true&theme=tokyonight)(https://github.com/audgns722/github-readme-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audgns722&layout=compact&theme=tokyonight)
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Thank%20you&fontSize=90)
 </div>
