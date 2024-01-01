@@ -1,9 +1,7 @@
 <div align=center>
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=Dev.Hun`s&fontSize=60&descSize=100&rotate=4&animation=twinkling)
-
 _<h2>Developer Myeonghun</h2>_
-
 ## 😁 Intro
 
 <h3> 안녕하세요. 프론트앤드 개발자 이명훈입니다.</h3>
