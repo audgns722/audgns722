@@ -16,13 +16,15 @@
 <br>
 <div>
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faudgns722&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+    ![Myeonghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=audgns722&show_icons=true&theme=radical)
 </div>
 
-# Portfolio 사이트 만들기
 
-  포트폴리오를 Vue, Vite, React, next 각각의 버전으로 만들기
+<div>
+    | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) [React 버전Link](https://github.com/audgns722/react-project2023.git) | ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) [Vue 버전Link](https://github.com/audgns722/vite-project2023.git) | ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) [Vite 버전Link](https://github.com/audgns722/vue-project2023.git) | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) [Next 버전Link](https://github.com/audgns722/next-project.git) |
 
-| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) [React 버전Link](https://github.com/audgns722/react-project2023.git) | ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) [Vue 버전Link](https://github.com/audgns722/vite-project2023.git) | ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) [Vite 버전Link](https://github.com/audgns722/vue-project2023.git) | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) [Next 버전Link](https://github.com/audgns722/next-project.git) |
+</div>
+## Portfolio 사이트 만들기
 
   ## 제작기간
 
