@@ -1,7 +1,7 @@
 <div align=left>
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=WellCome to My Github&fontSize=30&fontAlign=21&descSize=100&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=WellCome_to_My_Github&fontSize=30&fontAlign=21&descSize=100&animation=twinkling)
 
 _<h2>Developer Myeonghun</h2>_
 
