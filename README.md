@@ -1,6 +1,6 @@
 <div align=left>
 
-<img style="text-align: left;" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=WellCome to My Github&fontSize=30&fontAlign=21&descSize=100&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=WellCome to My Github&fontSize=30&fontAlign=21&descSize=100&animation=twinkling" />
 
 _<h2>Developer Myeonghun</h2>_
 
