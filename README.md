@@ -1,7 +1,9 @@
-<div align=center>
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=Dev.Hun`s&fontSize=60&descSize=100&rotate=4&animation=twinkling)
+<div align=left>
+
+<img style="text-align: left;" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=WellCome to My Github&fontSize=30&fontAlign=21&descSize=100&animation=twinkling" />
+
 _<h2>Developer Myeonghun</h2>_
+
 ## 😁 Intro
 
 <h3> 안녕하세요. 프론트앤드 개발자 이명훈입니다.</h3>
@@ -85,4 +87,5 @@ Etc-tool
 ![Myeonghun's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=audgns722&theme=solarized)
 
 # <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&&section=footer" />
+
 </div>
