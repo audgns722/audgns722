@@ -16,16 +16,26 @@ _Learning never exhausts the mind. - Leonardo da Vinci_
 </a>
 
 ## 😁 Project
-
+### React
 - 링크를 누르시면 github로 이동합니다.<br>
   🚩 React - [api를 이용한 다큐 유튜브](https://github.com/audgns722/youtube-react2023)<br>
-  🚩 Vue - [api를 이용한 영화 사이트](https://github.com/audgns722/movie-vue2023)<br>
-  🚩 Php TeamProject - [분리의신](https://github.com/audgns722/recycle-project)<br>
   🚩 React TeamProject - [KickOff](https://github.com/audgns722/kickoff)<br>
   🚩 React - [Blog사이트 만들기]()<br>
   🚩 React - [포트폴리오]()<br>
+  
+### Vite
+- 링크를 누르시면 github로 이동합니다.<br>
   🚩 Vite - [포트폴리오]()<br>
+  
+### Vue
+- 링크를 누르시면 github로 이동합니다.<br>
+  🚩 Vue - [api를 이용한 영화 사이트](https://github.com/audgns722/movie-vue2023)<br>
 
+### Php
+- 링크를 누르시면 github로 이동합니다.<br>
+  🚩 Php TeamProject - [분리의신](https://github.com/audgns722/recycle-project)<br>
+
+  
 ## 😁 Skill
 
 Front-End
