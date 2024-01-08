@@ -31,6 +31,10 @@ _Learning never exhausts the mind. - Leonardo da Vinci_
 - 링크를 누르시면 github로 이동합니다.<br>
   🚩 Vue - [api를 이용한 영화 사이트](https://github.com/audgns722/movie-vue2023)<br>
 
+### Next
+- 링크를 누르시면 github로 이동합니다.<br>
+  🚩 Next - [Promptopia](https://project-promtopia-next-wcjw48fe4-hoonsdevs-projects.vercel.app/)<br>
+
 ### Php
 - 링크를 누르시면 github로 이동합니다.<br>
   🚩 Php TeamProject - [분리의신](https://github.com/audgns722/recycle-project)<br>
