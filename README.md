@@ -26,7 +26,7 @@ _Learning never exhausts the mind. - Leonardo da Vinci_
 🚩 React - [포트폴리오](https://fly.io/apps/myeonghunportfolio)   
 🚩 React - [Blog사이트 만들기](https://github.com/audgns722/nodeblog-react2023)   
   - 이 프로젝트는 React, Node.js, MongoDB, AWS S3, Firebase 등을 활용하여 블로그를 제작한 프로젝트입니다.
-
+    
 ##
   
 ### ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)   
@@ -41,6 +41,8 @@ _Learning never exhausts the mind. - Leonardo da Vinci_
 🚩 Next - [Promptopia](https://github.com/audgns722/project_promtopia_next)
   - "Promtopia"는 AI사진 생성과 관련된 프롬프트를 공유하는 웹 애플리케이션입니다.   
   - 이 프로젝트는 사용자가 쉽게 정보를 검색하고 공유하는 환경을 제공합니다.
+🚩 Next - [포트폴리오](https://github.com/audgns722/next-project)
+  - next를 이용한 기본 포트폴리오 연습사이트입니다.
 
 ##
 
@@ -55,7 +57,13 @@ _Learning never exhausts the mind. - Leonardo da Vinci_
 링크를 누르시면 github로 이동합니다.   
 🚩 Vite - [포트폴리오](https://github.com/audgns722/vite-project2023)   
 
-  
+### 기타
+🚩 React - [간단한 웹사이트 만들기](https://github.com/audgns722/react-webpage)   
+  - 처음으로 만들어본 리엑트 웹사이트 입니다.  
+🚩 Vue - [간단한 웹사이트 만들기](https://github.com/audgns722/vue-webpage02)   
+  - 처음으로 만들어본 뷰 웹사이트 입니다.
+
+    
 ## 😁 Skill
 
 ### _Front-End_
