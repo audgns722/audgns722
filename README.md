@@ -26,7 +26,7 @@ _Learning never exhausts the mind. - Leonardo da Vinci_
   
 ### Vite
 - 링크를 누르시면 github로 이동합니다.<br>
-  🚩 Vite - [포트폴리오]()<br>
+  🚩 Vite - [포트폴리오](https://github.com/audgns722/vite-project2023)<br>
   
 ### Vue
 - 링크를 누르시면 github로 이동합니다.<br>
