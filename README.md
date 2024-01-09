@@ -23,7 +23,8 @@ _Learning never exhausts the mind. - Leonardo da Vinci_
 🚩 React TeamProject - [KickOff](https://github.com/audgns722/kickoff)   
   - 리엑트로 축구api를 이용하여 해외축구 하이라이트와 리그 경기일정 등을 보여주는 웹사이트 입니다.   
 
-🚩 React - [포트폴리오](https://fly.io/apps/myeonghunportfolio)   
+🚩 React - [포트폴리오](https://github.com/audgns722/react_portfolio2023)   
+  - 리엑트를 이용한 포트폴리오 사이트입니다. Client와 Sever로 구성되어 댓글 작성이 가능합니다.
 🚩 React - [Blog사이트 만들기](https://github.com/audgns722/nodeblog-react2023)   
   - 이 프로젝트는 React, Node.js, MongoDB, AWS S3, Firebase 등을 활용하여 블로그를 제작한 프로젝트입니다.
     
