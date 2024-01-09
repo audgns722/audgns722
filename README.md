@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=WellCome%20to%20My%20Github%20%F0%9F%98%80&fontSize=25&fontAlign=30&descSize=100&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=WellCome%20to%20My%20Github%20%F0%9F%98%80&fontSize=25&fontAlign=25&descSize=100&animation=twinkling)
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faudgns722&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 _<h2>Developer Myeonghun</h2>_
 
