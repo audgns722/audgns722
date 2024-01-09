@@ -72,7 +72,7 @@ Front-End
 <!-- Sass -->
 <img alt="Sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
 
-_Back-End_
+Back-End
 
 <!-- NodeJS -->
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -81,14 +81,14 @@ _Back-End_
 <!-- Nodemon -->
 <img alt="Nodemon" src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD"/>
 
-_DataBase_
+DataBase
 
 <!-- Firebase -->
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
 <!-- MongoDB -->
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-_Hosting_
+Hosting
 
 <!-- Netlify -->
 <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
@@ -99,7 +99,7 @@ _Hosting_
 <!-- Heroku -->
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 
-_Etc-Tool_
+Etc-Tool
 
 <!-- Postman -->
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
