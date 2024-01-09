@@ -18,7 +18,9 @@ _Learning never exhausts the mind. - Leonardo da Vinci_
 ## 😁 Project
 ### React
 - 링크를 누르시면 github로 이동합니다.<br>
-  🚩 React - [api를 이용한 다큐 유튜브](https://github.com/audgns722/youtube-react2023)<br>
+  🚩 React - [나만의 다큐 유튜브 사이트](https://github.com/audgns722/youtube-react2023)
+  <br>유튜브 API를 활용하여 제작한 다큐멘터리 전용 웹사이트입니다.
+이 사이트는 다큐멘터리르 좋아하는 제가 다양한 주제와 장르를 가진 다큐멘터리를 모아봤습니다.
   🚩 React TeamProject - [KickOff](https://github.com/audgns722/kickoff)<br>
   🚩 React 포트폴리오 - [Portfolio](https://fly.io/apps/myeonghunportfolio)<br>
   🚩 React - [Blog사이트 만들기](https://github.com/audgns722/nodeblog-react2023)<br>
