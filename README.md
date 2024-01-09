@@ -48,7 +48,9 @@ _Learning never exhausts the mind. - Leonardo da Vinci_
 
 ### ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 링크를 누르시면 github로 이동합니다.   
-🚩 Vite - [포트폴리오](https://github.com/audgns722/vite-project2023)   
+🚩 Vite - [포트폴리오](https://github.com/audgns722/vite-project2023)
+  - vite를 이용한 기본 포트폴리오 연습사이트입니다.
+
 
 ##
 
@@ -63,6 +65,10 @@ _Learning never exhausts the mind. - Leonardo da Vinci_
   - 처음으로 만들어본 리엑트 웹사이트 입니다.  
 🚩 Vue - [간단한 웹사이트 만들기](https://github.com/audgns722/vue-webpage02)   
   - 처음으로 만들어본 뷰 웹사이트 입니다.
+🚩 Vite - [포트폴리오ver1](https://github.com/audgns722/portfolio-vite2023-)
+  - vite를 포트폴리오사이트 미완성작입니다.Ver1
+🚩 Vite - [포트폴리오ver2](https://github.com/audgns722/portfolio-vite20203-ver2-)
+  - vite를 포트폴리오사이트 미완성작입니다.Ver2
 
     
 ## 😁 Skill
