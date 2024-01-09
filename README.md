@@ -46,16 +46,17 @@ _Learning never exhausts the mind. - Leonardo da Vinci_
 
 ##
 
+### ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+링크를 누르시면 github로 이동합니다.   
+🚩 Vite - [포트폴리오](https://github.com/audgns722/vite-project2023)   
+
+##
+
 ### ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)   
 링크를 누르시면 github로 이동합니다.   
 🚩 Php TeamProject - [분리의신](https://github.com/audgns722/recycle-project)   
   - 분리의신은 일상 생활 속에서 발생하는 잘못된 분리배출을 알려주고, 간편한 검색을 통해 올바른 배출 방법을 안내하는 웹사이트입니다.
 
-##
-
-### ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-링크를 누르시면 github로 이동합니다.   
-🚩 Vite - [포트폴리오](https://github.com/audgns722/vite-project2023)   
 
 ### 기타
 🚩 React - [간단한 웹사이트 만들기](https://github.com/audgns722/react-webpage)   
