@@ -21,7 +21,7 @@ _Learning never exhausts the mind. - Leonardo da Vinci_
   🚩 React - [api를 이용한 다큐 유튜브](https://github.com/audgns722/youtube-react2023)<br>
   🚩 React TeamProject - [KickOff](https://github.com/audgns722/kickoff)<br>
   🚩 React 포트폴리오 - [Portfolio](https://fly.io/apps/myeonghunportfolio)<br>
-  🚩 React - [Blog사이트 만들기]()<br>
+  🚩 React - [Blog사이트 만들기](https://github.com/audgns722/nodeblog-react2023)<br>
   🚩 React - [포트폴리오]()<br>
   
 ### Vite
