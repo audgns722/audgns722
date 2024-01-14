@@ -20,15 +20,15 @@ _Learning never exhausts the mind. - Leonardo da Vinci_
   - 유튜브 API를 활용하여 제작한 다큐멘터리 전용 웹사이트입니다.   
   - 이 사이트는 다큐멘터리르 좋아하는 제가 다양한 주제와 장르를 가진 다큐멘터리를 모아봤습니다.   
 
-🚩 React TeamProject - [KickOff](https://github.com/audgns722/kickoff)   
-  - 리엑트로 축구api를 이용하여 해외축구 하이라이트와 리그 경기일정 등을 보여주는 웹사이트 입니다.
-  - 현재 작업중에 있으며 미완성되어 자료 정리가 미비합니다. 
-
 🚩 React - [포트폴리오](https://github.com/audgns722/react_portfolio2023)   
   - 리엑트를 이용한 포트폴리오 사이트입니다. Client와 Sever로 구성되어 댓글 작성이 가능합니다.
     
 🚩 React - [Blog사이트 만들기](https://github.com/audgns722/nodeblog-react2023)   
   - 이 프로젝트는 React, Node.js, MongoDB, AWS S3, Firebase 등을 활용하여 블로그를 제작한 프로젝트입니다.
+
+🚩 React TeamProject - [KickOff](https://github.com/audgns722/kickoff)   
+  - 리엑트로 축구api를 이용하여 해외축구 하이라이트와 리그 경기일정 등을 보여주는 웹사이트 입니다.
+  - 현재 작업중에 있으며 미완성되어 자료 정리가 미비합니다. 
     
 ##
   
@@ -55,6 +55,8 @@ _Learning never exhausts the mind. - Leonardo da Vinci_
 🚩 Vite - [포트폴리오](https://github.com/audgns722/vite-project2023)
   - vite를 이용한 기본 포트폴리오 연습사이트입니다.
 
+🚩 Vite-React - [OpenAI DALL-E 이미지 생성](https://github.com/audgns722/dall-e-clone-vitereact)   
+  - penAI의 DALL-E 기술을 활용하여 사용자가 입력한 텍스트 프롬프트에 기반한 맞춤형 이미지를 생성하는 플랫폼입니다.
 
 ##
 
