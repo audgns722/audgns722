@@ -56,7 +56,7 @@ _Learning never exhausts the mind. - Leonardo da Vinci_
   - vite를 이용한 기본 포트폴리오 연습사이트입니다.
 
 🚩 Vite-React - [OpenAI DALL-E 이미지 생성](https://github.com/audgns722/dall-e-clone-vitereact)   
-  - penAI의 DALL-E 기술을 활용하여 사용자가 입력한 텍스트 프롬프트에 기반한 맞춤형 이미지를 생성하는 플랫폼입니다.
+  - OpenAI의 DALL-E 기술을 활용하여 사용자가 입력한 텍스트 프롬프트에 기반한 맞춤형 이미지를 생성하는 플랫폼입니다.
 
 ##
 
