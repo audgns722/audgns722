@@ -9,6 +9,7 @@ _<h2>Developer Myeonghun</h2>_
 
 _Learning never exhausts the mind. - Leonardo da Vinci_
 <br>
+## blog[link](audgns722.github.io/)
 <a href="mailto:audgns722@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 </a>
