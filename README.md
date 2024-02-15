@@ -35,16 +35,13 @@ _Learning never exhausts the mind. - Leonardo da Vinci_
   - 당신의 기분을 그림으로 그려드려요.(제작중)
 
 ##
-  
-### ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)   
- 링크를 누르시면 github로 이동합니다.   
-🚩 Vue - [Movie King](https://github.com/audgns722/movie-vue2023)   
-  - MovieKing은 Vue.js의 다양한 기능을 활용하여 영화 정보를 편리하게 찾을 수 있는 플랫폼입니다.
-
-##
 
 ### ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)     
-링크를 누르시면 github로 이동합니다.   
+링크를 누르시면 github로 이동합니다.  
+🚩 Next - [8Wolrd.co.kr](https://github.com/audgns722/palworld)   
+  - 게임 Palworld의 정보를 쉽게 찾고 검색할 수 있는 사이트입니다.
+  - 최근 유행인 Palworld의 도감, 교배, 스폰위치등을 확인할 수 있습니다.[Link](https://www.8world.co.kr)
+    
 🚩 Next - [Promptopia](https://github.com/audgns722/project_promtopia_next)   
   - "Promtopia"는 AI사진 생성과 관련된 프롬프트를 공유하는 웹 애플리케이션입니다.   
   - 이 프로젝트는 사용자가 쉽게 정보를 검색하고 공유하는 환경을 제공합니다.
@@ -55,8 +52,6 @@ _Learning never exhausts the mind. - Leonardo da Vinci_
 🚩 Next - [포트폴리오](https://github.com/audgns722/next-project)   
   - next를 이용한 기본 포트폴리오 연습사이트입니다.
 
- 
-
 ##
 
 ### ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -66,6 +61,13 @@ _Learning never exhausts the mind. - Leonardo da Vinci_
 
 🚩 Vite-React - [OpenAI DALL-E 이미지 생성](https://github.com/audgns722/dall-e-clone-vitereact)   
   - OpenAI의 DALL-E 기술을 활용하여 사용자가 입력한 텍스트 프롬프트에 기반한 맞춤형 이미지를 생성하는 플랫폼입니다.
+
+##
+
+### ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)   
+ 링크를 누르시면 github로 이동합니다.   
+🚩 Vue - [Movie King](https://github.com/audgns722/movie-vue2023)   
+  - MovieKing은 Vue.js의 다양한 기능을 활용하여 영화 정보를 편리하게 찾을 수 있는 플랫폼입니다.
 
 ##
 
