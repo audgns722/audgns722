@@ -31,8 +31,8 @@ _Learning never exhausts the mind. - Leonardo da Vinci_
   - 리엑트로 축구api를 이용하여 해외축구 하이라이트와 리그 경기일정 등을 보여주는 웹사이트 입니다.
   - 현재 작업중에 있으며 미완성되어 자료 정리가 미비합니다.
 
-🚩 React - [Today`s feel](https://github.com/audgns722/today-s-feel)
-  - 당신의 기분을 그림으로 그려드려요.(제작중)
+🚩 React - [오늘 기분 어때?](https://github.com/audgns722/today-s-feel)
+  - 현재 기분을 AI가 그림으로 표현해주는 창의적인 웹 애플리케이션입니다. 당신의 기분, 좋아하는 것들을 입력하고, AI는 그에 맞는 그림을 생성하여 기분을 시각적으로 표현해줍니다.
 
 ##
 
