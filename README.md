@@ -29,8 +29,11 @@ _Learning never exhausts the mind. - Leonardo da Vinci_
 
 🚩 React TeamProject - [KickOff](https://github.com/audgns722/kickoff)   
   - 리엑트로 축구api를 이용하여 해외축구 하이라이트와 리그 경기일정 등을 보여주는 웹사이트 입니다.
-  - 현재 작업중에 있으며 미완성되어 자료 정리가 미비합니다. 
-    
+  - 현재 작업중에 있으며 미완성되어 자료 정리가 미비합니다.
+
+🚩 React - [Today`s feel](https://github.com/audgns722/today-s-feel)
+  - 당신의 기분을 그림으로 그려드려요.(제작중)
+
 ##
   
 ### ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)   
