@@ -38,7 +38,7 @@ _Learning never exhausts the mind. - Leonardo da Vinci_
 
 ### ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)     
 링크를 누르시면 github로 이동합니다.  
-🚩 Next - [8Wolrd.co.kr](https://github.com/audgns722/palworld)   
+🚩 Next - [8Wolrd.co.kr](https://github.com/audgns722/8world-palworld-)   
   - 게임 Palworld의 정보를 쉽게 찾고 검색할 수 있는 사이트입니다.
   - 최근 유행인 Palworld의 도감, 교배, 스폰위치등을 확인할 수 있습니다.[Link](https://www.8world.co.kr)
     
